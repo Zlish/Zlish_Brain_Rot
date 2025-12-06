@@ -2,6 +2,8 @@
 
 Automatically open TikTok, Instagram Reels, YouTube Shorts, and X in separate Chrome windows whenever Claude generates a response.
 
+Check out [Clad Labs](https://www.cladlabs.ai/), which I've since learned is a very similar thing :)
+
 ## What it does
 
 Every time Claude Code generates a response, this script:
