@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "/stevesteve/claude-brainrot/open-brainrot.sh"
+            "command": "/Users/stevesteve/claude-brainrot/open-brainrot.sh"
           }
         ]
       }
