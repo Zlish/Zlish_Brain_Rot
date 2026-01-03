@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "/path/to/claude-brainrot/open-brainrot.sh > /dev/null 2>&1 &"
+            "command": "stevesteve/claude-brainrot/open-brainrot.sh > /dev/null 2>&1 &"
           }
         ]
       }
