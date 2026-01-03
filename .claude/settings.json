@@ -2,22 +2,20 @@
   "hooks": {
     "UserPromptSubmit": [
       {
-        "matcher": "",
         "hooks": [
           {
             "type": "command",
-            "command": "stevesteve/claude-brainrot/open-brainrot.sh > /dev/null 2>&1 &"
+            "command": "/stevesteve/claude-brainrot/open-brainrot.sh"
           }
         ]
       }
     ],
     "Stop": [
       {
-        "matcher": "",
         "hooks": [
           {
             "type": "command",
-            "command": "osascript -e 'tell application \"Google Chrome\" to close every window' > /dev/null 2>&1"
+            "command": "osascript -e 'tell application \"Google Chrome\" to close every window'"
           }
         ]
       }
